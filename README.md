@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Dave+Roppo+%7C+InfoSec+Analyst)](https://git.io/typing-svg)
 #### 📬 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-roppo/)](https://www.linkedin.com/in/david-roppo/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/DaveRoppo/)](https://github.com/DaveRoppo) 
