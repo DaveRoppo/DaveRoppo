@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveRoppo&layout=compact)](https://github.com/DaveRoppo/github-readme-stats)
 
-[[![thm](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)
+[[![thm](https://tryhackme-badges.s3.amazonaws.com/droppo1.png)
