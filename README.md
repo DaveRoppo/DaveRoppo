@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveRoppo&layout=compact)](https://github.com/DaveRoppo/github-readme-stats)
 
-<script src="https://tryhackme.com/badge/1296500"></script>
+[![thm](<script src="https://tryhackme.com/badge/1296500"></script>)]
