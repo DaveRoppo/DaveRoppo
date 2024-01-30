@@ -11,7 +11,7 @@
 
 # **Cybersecurity**
 
-### *Virtual Machine Homelab Projects*
+### *Homelab Projects*
 
 #### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
