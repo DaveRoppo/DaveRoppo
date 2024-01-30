@@ -23,7 +23,7 @@
 
 #### [Metasploitable Vulnerable VM (Ethical Hacking Homelab Part 2)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Metasploitable%20Vulnerable%20Machine%20(Ethical%20Hacking%20Homelab))
 
-#### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
+#### [Raspberry Pi OWASP WebGoat Homelab (Docker Setup)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 ---
 
 ### *Malware Traffic Analysis*
