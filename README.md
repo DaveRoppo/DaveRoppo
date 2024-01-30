@@ -28,7 +28,7 @@
 
 ### *Malware Traffic Analysis*
 
-####[IcedID Banking Malware](https://github.com/DaveRoppo/Cyber-Security/blob/main/Blue%20Team/Malware%20Traffic%20Analysis/IcedID/README.md)
+#### [IcedID Banking Malware](https://github.com/DaveRoppo/Cyber-Security/blob/main/Blue%20Team/Malware%20Traffic%20Analysis/IcedID/README.md)
 
 #### [Rig Exploit Kit](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Rig%20Exploit%20Kit)
 
