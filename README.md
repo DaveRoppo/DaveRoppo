@@ -28,6 +28,8 @@
 
 ### *Malware Traffic Analysis*
 
+####[IcedID Banking Malware](https://github.com/DaveRoppo/Cyber-Security/blob/main/Blue%20Team/Malware%20Traffic%20Analysis/IcedID/README.md)
+
 #### [Rig Exploit Kit](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Rig%20Exploit%20Kit)
 
 #### [Okay Boomer - Santo Maris Oia.exe](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Okay%20Boomer)
