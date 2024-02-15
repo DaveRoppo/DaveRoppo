@@ -26,6 +26,8 @@
 
 ### *Malware Traffic Analysis*
 
+#### [Redline Stealer](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Redline-Stealer)
+
 #### [IcedID Banking Malware](https://github.com/DaveRoppo/Cyber-Security/blob/main/Blue%20Team/Malware%20Traffic%20Analysis/IcedID/README.md)
 
 #### [TRICKBOT Trojan Spyware](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Cat%20Bomber)
