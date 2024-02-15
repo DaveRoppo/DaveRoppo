@@ -9,8 +9,6 @@
 
 ![thm](https://tryhackme-badges.s3.amazonaws.com/droppo1.png)
 
-# **Cybersecurity**
-
 ### *Homelab Projects*
 
 #### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
