@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveRoppo&layout=compact)](https://github.com/DaveRoppo/github-readme-stats)
 
-<script src="https://tryhackme.com/badge/1296500"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/RowPro.png" alt="TryHackMe">
 
 ## *VM Installation Guides*
 
