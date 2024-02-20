@@ -9,11 +9,7 @@
 
 ![thm](https://tryhackme-badges.s3.amazonaws.com/droppo1.png)
 
-### *Homelab Projects*
-
-#### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
-
-#### [Nessus Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
+## *VM Installation Guides*
 
 #### [Kali Linux Purple 2023.2 VM Installation (Virtual Box)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Kali%20Linux%20Purple%20VM%20Installaiton)
 
@@ -24,9 +20,17 @@
 #### [Raspberry Pi OWASP WebGoat Homelab (Docker Setup)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 ---
 
-### *Malware Traffic Analysis*
+## *Homelab Projects*
 
-#### [Redline Stealer](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Redline-Stealer)
+#### [Security Onion](https://github.com/DaveRoppo/Cyber-Security/tree/main/Blue%20Team/Malware%20Traffic%20Analysis/Redline-Stealer)
+
+#### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
+
+#### [Nessus Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
+
+---
+
+## *Malware Traffic Analysis*
 
 #### [IcedID Banking Malware](https://github.com/DaveRoppo/Cyber-Security/blob/main/Blue%20Team/Malware%20Traffic%20Analysis/IcedID/README.md)
 
@@ -38,7 +42,7 @@
 
 ---
 
-### *Python Scripts*
+## *Python Scripts*
 
 #### [Threaded Port Scanner](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Threaded%20Port%20Scanner)
 
@@ -65,9 +69,9 @@
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
 #### [Email Scraper](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/Email%20Scraper/emailscraper.py)
-<hr>
+---
 
-### *Bash Scripts*
+## *Bash Scripts*
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Linux/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
