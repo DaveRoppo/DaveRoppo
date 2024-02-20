@@ -52,7 +52,7 @@
 
 #### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/NMAP%20Automation)
 
-#### [API Fuzzer](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/API%20Fuzzer)
+#### [API Fuzzer](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/API%20Fuzzer/fuzzer.py)
 
 #### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
