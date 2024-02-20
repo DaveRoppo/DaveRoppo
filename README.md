@@ -71,7 +71,7 @@
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Linux/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
-#### [Making Bash Files Executable]()
+#### [Making Bash Files Executable](https://github.com/DaveRoppo/Cyber-Security/tree/main/Linux/Bash/Making%20Bash%20Files%20Executable)
 
 #### [Guessing Game](https://github.com/DaveRoppo/Cyber-Security/blob/main/Bash/Guessing%20Game/GuessingGame.sh)
 <hr>
