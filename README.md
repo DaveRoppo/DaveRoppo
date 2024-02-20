@@ -64,7 +64,7 @@
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
-#### [Email Scraper](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Email%20Scraper)
+#### [Email Scraper](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/Email%20Scraper/emailscraper.py)
 <hr>
 
 ### *Bash Scripts*
