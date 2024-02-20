@@ -50,7 +50,7 @@
 
 #### [TCP Client & Server](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/TCP%20Client%20%26%20Server)
 
-#### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/NMAP%20Automation)
+#### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/NMAP%20Automation/NMAP.py)
 
 #### [API Fuzzer](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/API%20Fuzzer/fuzzer.py)
 
