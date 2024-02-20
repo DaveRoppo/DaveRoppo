@@ -56,7 +56,7 @@
 
 #### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
-#### [Banner Grabber](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Banner%20Grabber)
+#### [Banner Grabber](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/Banner%20Grabber/BannerGrabber.py)
 
 #### [Vigenere Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Vigenere%20Cipher)
 
