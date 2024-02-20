@@ -54,7 +54,7 @@
 
 #### [API Fuzzer](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/API%20Fuzzer/fuzzer.py)
 
-#### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
+#### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/System%20Health%20Check/sys_check.py)
 
 #### [Banner Grabber](https://github.com/DaveRoppo/Cyber-Security/blob/main/Python/Banner%20Grabber/BannerGrabber.py)
 
