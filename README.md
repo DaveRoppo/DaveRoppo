@@ -25,6 +25,8 @@
 
 #### [LimaCharlie EDR](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/SOC%20Analyst%20Home%20Lab/Readme.md)
 
+#### [Wazuh SIEM | XDR]()
+
 #### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
 #### [Nessus Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
